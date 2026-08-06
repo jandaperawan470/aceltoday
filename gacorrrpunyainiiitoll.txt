@@ -3,7 +3,7 @@
     <title>NONO4D - Titik Situs Toto 4D Terbesar & Slot Gacor Paling Ramai Dikunjungi Tahun 2026</title>
     <link rel="icon" type="image/x-icon" href="https://blogger.googleusercontent.com/img/a/AVvXsEgfBqgUeSIByDcCd-ONL1FsW2GBXZZ4-ooT6x0uWMUBfekAwF1w9uqGDGwjUc-97ZXWVKhpiUSx5HDBsdZcOfjG9_f2cdRijWYPmVsqujxbeONM5UH4t4R6GGxr9zewgJRTCrXLJLVjnPbBhUB3HAA7F-5tvdLLqVzJfEJCmFnqEY5HfcPg0UMctRzDAR4">
     <link rel="apple-touch-icon" href="https://blogger.googleusercontent.com/img/a/AVvXsEgfBqgUeSIByDcCd-ONL1FsW2GBXZZ4-ooT6x0uWMUBfekAwF1w9uqGDGwjUc-97ZXWVKhpiUSx5HDBsdZcOfjG9_f2cdRijWYPmVsqujxbeONM5UH4t4R6GGxr9zewgJRTCrXLJLVjnPbBhUB3HAA7F-5tvdLLqVzJfEJCmFnqEY5HfcPg0UMctRzDAR4">
-    <link rel="canonical" href="https://risnapia.id/">
+    <link rel="canonical" href="https://journal.pintarologimedia.com">
     <link rel="amphtml" href="https://astonhotelsinternational.id/en/offers/domain-gacok-ini/">
     <link rel="alternate" href="https://astonhotelsinternational.id/en/offers/domain-gacok-ini/"> 
     <link rel="alternate" href="https://astonhotelsinternational.id/en/offers/domain-gacok-ini/" hreflang="id">
@@ -18064,7 +18064,7 @@ html.no-touch .tp-design-tile:hover .tp-design-tile__sort-ctrl {
     <meta property="og:price:amount" content="10.000">
     <meta property="og:price:currency" content="IDR">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://risnapia.id/">
+    <meta property="og:url" content="https://journal.pintarologimedia.com">
     <meta property="og:image" content="https://blogger.googleusercontent.com/img/a/AVvXsEjJWtCIt2l0chuUZ36kod6f-TxtzpYewW211BuUtzpfLw-qpVvmp2mucvqEa8AZAjU-nlfQNfQFTMWpdKlf3gkOKIiKC9v1Cy1bBHspyW3yO2tLEPaiZr9NEcDVDHaAU_-lOqTpcDW7dWV07T-02TfaxPFl5SNdCl5bHRrnuwsSkx9qka4cjurLMMDtz1M=w308-h308">
     <meta property="og:site_name" content="NONO4D">
     <meta property="product:price:amount" content="100.00">
@@ -18084,7 +18084,7 @@ html.no-touch .tp-design-tile:hover .tp-design-tile__sort-ctrl {
             "request__controller": "product_pages",
             "request__action": "show",
             "request__domain": "inmobiliariaarmadans.com",
-            "request__base_url": "https://risnapia.id/",
+            "request__base_url": "https://journal.pintarologimedia.com",
             "request__ab_tests": {
                 "con-3051-pasf": "default"
             },
@@ -18105,7 +18105,7 @@ html.no-touch .tp-design-tile:hover .tp-design-tile__sort-ctrl {
             "design__variant_id": "19G79A8C",
             "design__variant": "{\"Gender\":\"Male Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"Red\"}",
             "design__mock_image": "https://blogger.googleusercontent.com/img/a/AVvXsEjJWtCIt2l0chuUZ36kod6f-TxtzpYewW211BuUtzpfLw-qpVvmp2mucvqEa8AZAjU-nlfQNfQFTMWpdKlf3gkOKIiKC9v1Cy1bBHspyW3yO2tLEPaiZr9NEcDVDHaAU_-lOqTpcDW7dWV07T-02TfaxPFl5SNdCl5bHRrnuwsSkx9qka4cjurLMMDtz1M=w308-h308",
-            "design__url": "https://risnapia.id/",
+            "design__url": "https://journal.pintarologimedia.com",
             "design__canvas": "NONO4D",
             "design__canvas_canonical_name": "NONO4D",
             "design__design_title": "NONO4D merupakan situs Toto 4D terbesar dan slot gacor paling ramai dikunjungi tahun 2026. Menyediakan pasaran lengkap, provider populer, transaksi cepat, serta bermain aman dan nyaman setiap hari.",
@@ -18211,7 +18211,7 @@ html.no-touch .tp-design-tile:hover .tp-design-tile__sort-ctrl {
   "name": "NONO4D - Titik Situs Toto 4D Terbesar & Slot Gacor Paling Ramai Dikunjungi Tahun 2026",
   "description": "NONO4D merupakan situs Toto 4D terbesar dan slot gacor paling ramai dikunjungi tahun 2026. Menyediakan pasaran lengkap, provider populer, transaksi cepat, serta bermain aman dan nyaman setiap hari.",
   "category": "Data HK",
-  "url": "https://risnapia.id/",
+  "url": "https://journal.pintarologimedia.com",
   "sku": "TOGEL-ONLINE-RESMI",
   "image": {
     "@type": "ImageObject",
@@ -18242,7 +18242,7 @@ html.no-touch .tp-design-tile:hover .tp-design-tile__sort-ctrl {
       "@type": "ListItem",
       "position": 1,
       "name": "NONO4D",
-      "item": "https://risnapia.id/"
+      "item": "https://journal.pintarologimedia.com"
     },
     {
       "@type": "ListItem",
@@ -18254,37 +18254,37 @@ html.no-touch .tp-design-tile:hover .tp-design-tile__sort-ctrl {
       "@type": "ListItem",
       "position": 3,
       "name": "TOGEL ONLINE",
-      "item": "https://risnapia.id/"
+      "item": "https://journal.pintarologimedia.com"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "TOGEL RESMI",
-      "item": "https://risnapia.id/"
+      "item": "https://journal.pintarologimedia.com"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "TOGEL ONLINE RESMI",
-      "item": "https://risnapia.id/"
+      "item": "https://journal.pintarologimedia.com"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "GAME TOGEL ONLINE",
-      "item": "https://risnapia.id/"
+      "item": "https://journal.pintarologimedia.com"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "PLATFORM TOGEL ONLINE",
-      "item": "https://risnapia.id/"
+      "item": "https://journal.pintarologimedia.com"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "BANDAR TOGEL ONLINE",
-      "item": "https://risnapia.id/"
+      "item": "https://journal.pintarologimedia.com"
     }
   ]
 }
@@ -18386,14 +18386,14 @@ NONO4D - Titik Situs Toto 4D Terbesar & Slot Gacor Paling Ramai Dikunjungi Tahun
             <div class="vc-header__menu-container">
                 <button type="button" class="btn vc-header__shop-button btn--no-space tp-btn--medium btn--no-background" data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Shop" data-targeted-tray="Shop"><span class="teepublicon teepublicon--primary-400 teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="28" height="28" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="" clip-rule="evenodd"></path></svg></span>
                     <div class="button__content">
-                        <span class="vc-header__shop-button-text"><a href="https://risnapia.id/">DAFTAR DISINI</a></span>
+                        <span class="vc-header__shop-button-text"><a href="https://journal.pintarologimedia.com">DAFTAR DISINI</a></span>
 
                     </div>
 
                 </button>
             </div>
             <div class="vc-header-logo">
-                <a aria-label="Home Link" title="Home" href="https://risnapia.id/" class="link vc-header-logo__wrapper link--1 link--default">
+                <a aria-label="Home Link" title="Home" href="https://journal.pintarologimedia.com" class="link vc-header-logo__wrapper link--1 link--default">
                     <span class="link__content">
 <picture>
   <source srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNCJqdthmug6phTy8I9wo1nmDLu0s8q9uAsmmm6TYJMrpOKXMlDxe0kKUmRK_k80-pJ7TlDlYaQJOpb168yB88rYb6hSmFZ3OSO_o9Uj7UCYuWiNAYjeRyl7Cp3wwa3-f_XFnWHxKMysXq7SkYcTXgQT2CQG-R5MqxFYr0U46SZ2k7Z0R5WPVZR80Nf7s/s1600/nono4d_kilap_.gif" type="image/webp">
@@ -18410,7 +18410,7 @@ NONO4D - Titik Situs Toto 4D Terbesar & Slot Gacor Paling Ramai Dikunjungi Tahun
             </div>
             <div class="vc-header__search-container">
                 <div class="m-header__search m-header__search--animate jsHeadSearch inactive" data-navigation--header-target="searchFieldWrapper" data-sticky-header-target="searchRow">
-                    <form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://risnapia.id/" accept-charset="UTF-8" method="post">
+                    <form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://journal.pintarologimedia.com" accept-charset="UTF-8" method="post">
                         <input type="hidden" name="_method" value="patch" autocomplete="off">
                         <input type="hidden" name="authenticity_token" value="8vSeoYeGtlUiSjsTwv8MriSNw5KsyqV7SxcuKPWCkOHPWqc69ZHaEMWFV-CLUNdpe3IV90JnlZWjJ2U8fOsR1A" autocomplete="off">
                         <div class="m-header__search-field-container">
@@ -18457,7 +18457,7 @@ NONO4D - Titik Situs Toto 4D Terbesar & Slot Gacor Paling Ramai Dikunjungi Tahun
                     </button></a>
                 </div>
                 <div class="vc-header__cart">
-                    <a href="https://risnapia.id/"><button type="button" class="btn vc-header__cart-button btn--no-space tp-btn--medium btn--no-background" data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#lazyloadCartTray" data-button-label="Cart" data-targeted-tray="Cart">
+                    <a href="https://journal.pintarologimedia.com"><button type="button" class="btn vc-header__cart-button btn--no-space tp-btn--medium btn--no-background" data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#lazyloadCartTray" data-button-label="Cart" data-targeted-tray="Cart">
                         <div class="button__content">
                             <div class="vc-badge-notification jsNotificationBadge vc-header__cart-badge vc-badge-notification--default" data-controller="badges--notification" data-badges--notification-count-value="0"><span class="teepublicon teepublicon--primary-400 teepublicon-background--transparent vc-badge-notification__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="28" height="28" focusable="false" aria-hidden="true"><path d="M7 4a3 3 0 1 0 0 6c1.053 0 1.64.11 2.015.332.196.117.747.49 1.026 2.161a770.83 770.83 0 0 0 1.62 9.423c.516 2.863 1.016 5.464 1.34 6.574.348 1.193 1.037 2.88 2.546 4.273 1.575 1.453 3.756 2.322 6.567 2.322H38a3 3 0 1 0 0-6H22.114c-1.501 0-2.168-.428-2.498-.732-.395-.365-.666-.895-.855-1.543a22.139 22.139 0 0 1-.333-1.431c.27.074.52.127.739.16 1.556.224 6.006.506 9.86.455 2.997-.04 5.978-.178 7.658-.456 1.68-.278 4.454-1.678 5.256-3.634C42.896 19.58 44 15.678 44 13.58c0-2.097-.405-3.652-4.191-3.577-2.55.05-5.02.033-7.394.016-1.152-.008-2.282-.016-3.387-.016h-13.41c-.65-2.205-1.848-3.823-3.535-4.827C10.212 4.063 8.187 4 7 4Zm16 36.5a3.5 3.5 0 1 1-7 0 3.5 3.5 0 0 1 7 0ZM37.5 44a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Z"></path></svg></span>
                                 <div class="vc-badge-notification__counter vc-header__cart-counter hidden" data-badges--notification-target="counter">0</div>
@@ -18495,50 +18495,50 @@ Popular Products
             <div class="m-tab-nav__content">
                 <div class="m-tab-nav__tab-content" data-utilities--tab-target="content" data-tab-content-index="0" style="display:block;">
                     <div class="m-explore-nav__tab-content">
-                        <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Shop All Designs" data-href="/t-shirts" href="https://risnapia.id/" class="link m-explore-nav__cta link--1 link--default">
+                        <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Shop All Designs" data-href="/t-shirts" href="https://journal.pintarologimedia.com" class="link m-explore-nav__cta link--1 link--default">
                             <span class="link__content">
 Shop All Designs
 </span>
 
                         </a>
-                        <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="https://risnapia.id/" title="Halloween T-Shirts" href="https://risnapia.id/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgfBqgUeSIByDcCd-ONL1FsW2GBXZZ4-ooT6x0uWMUBfekAwF1w9uqGDGwjUc-97ZXWVKhpiUSx5HDBsdZcOfjG9_f2cdRijWYPmVsqujxbeONM5UH4t4R6GGxr9zewgJRTCrXLJLVjnPbBhUB3HAA7F-5tvdLLqVzJfEJCmFnqEY5HfcPg0UMctRzDAR4" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+                        <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="https://journal.pintarologimedia.com" title="Halloween T-Shirts" href="https://journal.pintarologimedia.com" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgfBqgUeSIByDcCd-ONL1FsW2GBXZZ4-ooT6x0uWMUBfekAwF1w9uqGDGwjUc-97ZXWVKhpiUSx5HDBsdZcOfjG9_f2cdRijWYPmVsqujxbeONM5UH4t4R6GGxr9zewgJRTCrXLJLVjnPbBhUB3HAA7F-5tvdLLqVzJfEJCmFnqEY5HfcPg0UMctRzDAR4" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class="link__content">
 NONO4D
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://risnapia.id/" title="Music T-Shirts" href="https://risnapia.id/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgfBqgUeSIByDcCd-ONL1FsW2GBXZZ4-ooT6x0uWMUBfekAwF1w9uqGDGwjUc-97ZXWVKhpiUSx5HDBsdZcOfjG9_f2cdRijWYPmVsqujxbeONM5UH4t4R6GGxr9zewgJRTCrXLJLVjnPbBhUB3HAA7F-5tvdLLqVzJfEJCmFnqEY5HfcPg0UMctRzDAR4" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://journal.pintarologimedia.com" title="Music T-Shirts" href="https://journal.pintarologimedia.com" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgfBqgUeSIByDcCd-ONL1FsW2GBXZZ4-ooT6x0uWMUBfekAwF1w9uqGDGwjUc-97ZXWVKhpiUSx5HDBsdZcOfjG9_f2cdRijWYPmVsqujxbeONM5UH4t4R6GGxr9zewgJRTCrXLJLVjnPbBhUB3HAA7F-5tvdLLqVzJfEJCmFnqEY5HfcPg0UMctRzDAR4" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class="link__content">NONO4D 4D
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://risnapia.id/" title="Sport T-Shirts" href="https://risnapia.id/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgfBqgUeSIByDcCd-ONL1FsW2GBXZZ4-ooT6x0uWMUBfekAwF1w9uqGDGwjUc-97ZXWVKhpiUSx5HDBsdZcOfjG9_f2cdRijWYPmVsqujxbeONM5UH4t4R6GGxr9zewgJRTCrXLJLVjnPbBhUB3HAA7F-5tvdLLqVzJfEJCmFnqEY5HfcPg0UMctRzDAR4" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://journal.pintarologimedia.com" title="Sport T-Shirts" href="https://journal.pintarologimedia.com" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgfBqgUeSIByDcCd-ONL1FsW2GBXZZ4-ooT6x0uWMUBfekAwF1w9uqGDGwjUc-97ZXWVKhpiUSx5HDBsdZcOfjG9_f2cdRijWYPmVsqujxbeONM5UH4t4R6GGxr9zewgJRTCrXLJLVjnPbBhUB3HAA7F-5tvdLLqVzJfEJCmFnqEY5HfcPg0UMctRzDAR4" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class="link__content">
 SLOT GACOR
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://risnapia.id/" title="Movie T-Shirts" href="https://risnapia.id/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgfBqgUeSIByDcCd-ONL1FsW2GBXZZ4-ooT6x0uWMUBfekAwF1w9uqGDGwjUc-97ZXWVKhpiUSx5HDBsdZcOfjG9_f2cdRijWYPmVsqujxbeONM5UH4t4R6GGxr9zewgJRTCrXLJLVjnPbBhUB3HAA7F-5tvdLLqVzJfEJCmFnqEY5HfcPg0UMctRzDAR4" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://journal.pintarologimedia.com" title="Movie T-Shirts" href="https://journal.pintarologimedia.com" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgfBqgUeSIByDcCd-ONL1FsW2GBXZZ4-ooT6x0uWMUBfekAwF1w9uqGDGwjUc-97ZXWVKhpiUSx5HDBsdZcOfjG9_f2cdRijWYPmVsqujxbeONM5UH4t4R6GGxr9zewgJRTCrXLJLVjnPbBhUB3HAA7F-5tvdLLqVzJfEJCmFnqEY5HfcPg0UMctRzDAR4" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class="link__content">
 SLOT ONLINE
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://risnapia.id/" title="Vintage T-Shirts" href="https://risnapia.id/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgfBqgUeSIByDcCd-ONL1FsW2GBXZZ4-ooT6x0uWMUBfekAwF1w9uqGDGwjUc-97ZXWVKhpiUSx5HDBsdZcOfjG9_f2cdRijWYPmVsqujxbeONM5UH4t4R6GGxr9zewgJRTCrXLJLVjnPbBhUB3HAA7F-5tvdLLqVzJfEJCmFnqEY5HfcPg0UMctRzDAR4" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://journal.pintarologimedia.com" title="Vintage T-Shirts" href="https://journal.pintarologimedia.com" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgfBqgUeSIByDcCd-ONL1FsW2GBXZZ4-ooT6x0uWMUBfekAwF1w9uqGDGwjUc-97ZXWVKhpiUSx5HDBsdZcOfjG9_f2cdRijWYPmVsqujxbeONM5UH4t4R6GGxr9zewgJRTCrXLJLVjnPbBhUB3HAA7F-5tvdLLqVzJfEJCmFnqEY5HfcPg0UMctRzDAR4" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class="link__content">
 SLOT RESMI
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://risnapia.id/" title="Animal T-Shirts" href="https://risnapia.id/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgfBqgUeSIByDcCd-ONL1FsW2GBXZZ4-ooT6x0uWMUBfekAwF1w9uqGDGwjUc-97ZXWVKhpiUSx5HDBsdZcOfjG9_f2cdRijWYPmVsqujxbeONM5UH4t4R6GGxr9zewgJRTCrXLJLVjnPbBhUB3HAA7F-5tvdLLqVzJfEJCmFnqEY5HfcPg0UMctRzDAR4" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://journal.pintarologimedia.com" title="Animal T-Shirts" href="https://journal.pintarologimedia.com" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgfBqgUeSIByDcCd-ONL1FsW2GBXZZ4-ooT6x0uWMUBfekAwF1w9uqGDGwjUc-97ZXWVKhpiUSx5HDBsdZcOfjG9_f2cdRijWYPmVsqujxbeONM5UH4t4R6GGxr9zewgJRTCrXLJLVjnPbBhUB3HAA7F-5tvdLLqVzJfEJCmFnqEY5HfcPg0UMctRzDAR4" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class="link__content">
 GAME SLOT
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://risnapia.id/" title="Television T-Shirts" href="https://risnapia.id/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgfBqgUeSIByDcCd-ONL1FsW2GBXZZ4-ooT6x0uWMUBfekAwF1w9uqGDGwjUc-97ZXWVKhpiUSx5HDBsdZcOfjG9_f2cdRijWYPmVsqujxbeONM5UH4t4R6GGxr9zewgJRTCrXLJLVjnPbBhUB3HAA7F-5tvdLLqVzJfEJCmFnqEY5HfcPg0UMctRzDAR4" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://journal.pintarologimedia.com" title="Television T-Shirts" href="https://journal.pintarologimedia.com" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgfBqgUeSIByDcCd-ONL1FsW2GBXZZ4-ooT6x0uWMUBfekAwF1w9uqGDGwjUc-97ZXWVKhpiUSx5HDBsdZcOfjG9_f2cdRijWYPmVsqujxbeONM5UH4t4R6GGxr9zewgJRTCrXLJLVjnPbBhUB3HAA7F-5tvdLLqVzJfEJCmFnqEY5HfcPg0UMctRzDAR4" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class="link__content">
 PLATFORM SLOT
 
 </span>
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://risnapia.id/" title="Funny T-Shirts" href="https://risnapia.id/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgfBqgUeSIByDcCd-ONL1FsW2GBXZZ4-ooT6x0uWMUBfekAwF1w9uqGDGwjUc-97ZXWVKhpiUSx5HDBsdZcOfjG9_f2cdRijWYPmVsqujxbeONM5UH4t4R6GGxr9zewgJRTCrXLJLVjnPbBhUB3HAA7F-5tvdLLqVzJfEJCmFnqEY5HfcPg0UMctRzDAR4" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://journal.pintarologimedia.com" title="Funny T-Shirts" href="https://journal.pintarologimedia.com" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgfBqgUeSIByDcCd-ONL1FsW2GBXZZ4-ooT6x0uWMUBfekAwF1w9uqGDGwjUc-97ZXWVKhpiUSx5HDBsdZcOfjG9_f2cdRijWYPmVsqujxbeONM5UH4t4R6GGxr9zewgJRTCrXLJLVjnPbBhUB3HAA7F-5tvdLLqVzJfEJCmFnqEY5HfcPg0UMctRzDAR4" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class="link__content">
 BANDAR SLOT
 
@@ -18701,7 +18701,7 @@ Back
 </button></div>
 </div>
 <div class="m-product-preview__thumbs jsProductPreviewThumbs jsProductImgGlideCtrls" data-glide-el="controls">
-<a data-id="0 " href="https://risnapia.id/" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl">
+<a data-id="0 " href="https://journal.pintarologimedia.com" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl">
 <span class="link__content">
 <picture data-action="click-&gt;rudderstack--filter-clicked#track" data-cart-id="9a8c68d58aaa0c110ea9655af8a790a4" data-filter-name="thumbnail" data-glide-dir="0">
 <img alt="NONO4D - Titik Situs Toto 4D Terbesar & Slot Gacor Paling Ramai Dikunjungi Tahun 2026 by Hey siriusly" class="mockup" loading="lazy" src="https://blogger.googleusercontent.com/img/a/AVvXsEjJWtCIt2l0chuUZ36kod6f-TxtzpYewW211BuUtzpfLw-qpVvmp2mucvqEa8AZAjU-nlfQNfQFTMWpdKlf3gkOKIiKC9v1Cy1bBHspyW3yO2tLEPaiZr9NEcDVDHaAU_-lOqTpcDW7dWV07T-02TfaxPFl5SNdCl5bHRrnuwsSkx9qka4cjurLMMDtz1M=w308-h308">
@@ -18709,7 +18709,7 @@ Back
 
 </span>
 
-</a><a data-id="1 " href="https://risnapia.id/" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl">
+</a><a data-id="1 " href="https://journal.pintarologimedia.com" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl">
 <span class="link__content">
 <picture data-action="click-&gt;rudderstack--filter-clicked#track" data-cart-id="9a8c68d58aaa0c110ea9655af8a790a4" data-filter-name="thumbnail" data-glide-dir="1">
 <img alt="George Kittle F Dallas Kittle by Hey siriusly" class="preview" loading="lazy" src="https://blogger.googleusercontent.com/img/a/AVvXsEjJWtCIt2l0chuUZ36kod6f-TxtzpYewW211BuUtzpfLw-qpVvmp2mucvqEa8AZAjU-nlfQNfQFTMWpdKlf3gkOKIiKC9v1Cy1bBHspyW3yO2tLEPaiZr9NEcDVDHaAU_-lOqTpcDW7dWV07T-02TfaxPFl5SNdCl5bHRrnuwsSkx9qka4cjurLMMDtz1M=w308-h308">
@@ -18906,9 +18906,9 @@ View Size Chart
     
 <h1 style="text-align: center; color: #cc00ff;">NONO4D - Titik Situs Toto 4D Terbesar & Slot Gacor Paling Ramai Dikunjungi Tahun 2026</h1>
 
-<p style="color: #ffffff; text-align: justify; margin: 15px; font-size: 18px;">NONO4D - Titik <a href="https://risnapia.id/">Situs Toto 4D</a> Terbesar &amp; Slot Gacor Paling Ramai Dikunjungi Tahun 2026&nbsp;menjadi pilihan utama bagi para pecinta permainan online yang mencari platform terpercaya dengan layanan lengkap dan akses mudah. Dengan dukungan berbagai pasaran Toto 4D populer serta koleksi permainan slot gacor terbaru, NONO4D menghadirkan pengalaman bermain yang lebih seru dan menguntungkan bagi seluruh member.
-Pada tahun 2026, <a href="https://risnapia.id/">NONO4D</a> terus berkembang sebagai destinasi favorit berkat sistem yang stabil, proses transaksi yang cepat, serta pilihan permainan yang selalu diperbarui mengikuti tren terbaru. Didukung tampilan modern dan layanan profesional selama 24 jam, pemain dapat menikmati berbagai peluang hiburan dalam satu platform yang nyaman dan mudah diakses dari berbagai perangkat.
-Kombinasi pasaran <a href="https://risnapia.id/">Toto 4D</a> terlengkap, permainan slot paling ramai, serta kemudahan akses menjadikan NONO4D sebagai salah satu situs yang banyak dipercaya dan dikunjungi setiap harinya oleh para pemain yang mengutamakan kualitas layanan dan pengalaman bermain terbaik.</p>
+<p style="color: #ffffff; text-align: justify; margin: 15px; font-size: 18px;">NONO4D - Titik <a href="https://journal.pintarologimedia.com">Situs Toto 4D</a> Terbesar &amp; Slot Gacor Paling Ramai Dikunjungi Tahun 2026&nbsp;menjadi pilihan utama bagi para pecinta permainan online yang mencari platform terpercaya dengan layanan lengkap dan akses mudah. Dengan dukungan berbagai pasaran Toto 4D populer serta koleksi permainan slot gacor terbaru, NONO4D menghadirkan pengalaman bermain yang lebih seru dan menguntungkan bagi seluruh member.
+Pada tahun 2026, <a href="https://journal.pintarologimedia.com">NONO4D</a> terus berkembang sebagai destinasi favorit berkat sistem yang stabil, proses transaksi yang cepat, serta pilihan permainan yang selalu diperbarui mengikuti tren terbaru. Didukung tampilan modern dan layanan profesional selama 24 jam, pemain dapat menikmati berbagai peluang hiburan dalam satu platform yang nyaman dan mudah diakses dari berbagai perangkat.
+Kombinasi pasaran <a href="https://journal.pintarologimedia.com">Toto 4D</a> terlengkap, permainan slot paling ramai, serta kemudahan akses menjadikan NONO4D sebagai salah satu situs yang banyak dipercaya dan dikunjungi setiap harinya oleh para pemain yang mengutamakan kualitas layanan dan pengalaman bermain terbaik.</p>
 
 <style>
 /* ===== PREMIUM GOLD TABLE ===== */
@@ -20149,65 +20149,65 @@ function Nono4dGeneratePrediksi(){
 <div class="m-design__additional-info" data-controller="rudderstack--link-clicked" data-rudderstack--link-clicked-location-value="related_tags_trending_tags">
 <h4 class="h h--6 m-design__subtitles">Trending Tags</h4>
 <nav class="m-design__additional-info-list">
-<div class="m-search__related-results container__scrollable container__scrollable--wrap container__scrollable--slim "><a href="https://risnapia.id/" class="link vc-pill vc-pill--on-light link--default ">
+<div class="m-search__related-results container__scrollable container__scrollable--wrap container__scrollable--slim "><a href="https://journal.pintarologimedia.com" class="link vc-pill vc-pill--on-light link--default ">
 <span class="link__content">
 NONO4D
 </span>
 
 </a>
-<a href="https://risnapia.id/" class="link vc-pill vc-pill--on-light link--default ">
+<a href="https://journal.pintarologimedia.com" class="link vc-pill vc-pill--on-light link--default ">
 <span class="link__content">
 TOTO 4D
 </span>
 
 </a>
-<a href="https://risnapia.id/" class="link vc-pill vc-pill--on-light link--default ">
+<a href="https://journal.pintarologimedia.com" class="link vc-pill vc-pill--on-light link--default ">
 <span class="link__content">
 TOGEL ONLINE
 </span>
 
 </a>
-<a href="https://risnapia.id/" class="link vc-pill vc-pill--on-light link--default ">
+<a href="https://journal.pintarologimedia.com" class="link vc-pill vc-pill--on-light link--default ">
 <span class="link__content">
 NONO4D TOGEL
 </span>
 
 </a>
-<a href="https://risnapia.id/" class="link vc-pill vc-pill--on-light link--default ">
+<a href="https://journal.pintarologimedia.com" class="link vc-pill vc-pill--on-light link--default ">
 <span class="link__content">
 NONO4D SLOT
 </span>
 
 </a>
-<a href="https://risnapia.id/" class="link vc-pill vc-pill--on-light link--default ">
+<a href="https://journal.pintarologimedia.com" class="link vc-pill vc-pill--on-light link--default ">
 <span class="link__content">
 TOGEL MACAU
 </span>
 
 </a>
-<a href="https://risnapia.id/" class="link vc-pill vc-pill--on-light link--default ">
+<a href="https://journal.pintarologimedia.com" class="link vc-pill vc-pill--on-light link--default ">
 <span class="link__content">
 MACAU 4D</span>
 
 </a>
-<a href="https://risnapia.id/" class="link vc-pill vc-pill--on-light link--default ">
+<a href="https://journal.pintarologimedia.com" class="link vc-pill vc-pill--on-light link--default ">
 <span class="link__content">
 SLOT GACOR
 </span>
 </a>
 
-<a href="https://risnapia.id/" class="link vc-pill vc-pill--on-light link--default ">
+<a href="https://journal.pintarologimedia.com" class="link vc-pill vc-pill--on-light link--default ">
 <span class="link__content">
 SLOT ONLINE RESMI
 </span>
 </a>
 
-<a href="https://risnapia.id/" class="link vc-pill vc-pill--on-light link--default ">
+<a href="https://journal.pintarologimedia.com" class="link vc-pill vc-pill--on-light link--default ">
 <span class="link__content">
 BANDAR SLOT GACOR</span>
 </a>
 
-<a href="https://risnapia.id/" class="link vc-pill vc-pill--on-light link--default ">
+<a href="https://journal.pintarologimedia.com" class="link vc-pill vc-pill--on-light link--default ">
 <span class="link__content">
 SLOT RESMI
 </span>
@@ -20243,7 +20243,7 @@ SLOT RESMI
     </p>
   </div>
   <p class="m-footer__guarantee-link">
-    <a target="_blank" href="https://risnapia.id/" class="link link__cta link__cta--on-dark link--default">
+    <a target="_blank" href="https://journal.pintarologimedia.com" class="link link__cta link__cta--on-dark link--default">
       <span class="link__content">
     NONO4D
       </span>
@@ -20254,49 +20254,49 @@ SLOT RESMI
 <div class="m-footer-links m-footer-section">
 <div class="link-collection m-foot__links-section "><div class="link-collection__body "><h4 class="h__h4 link-collection__header h--no-s ">Support</h4>
 
-<div class="link-collection__content "><a data-gtm-footer-link-text="Order Status " style="--animation-order: " href="https://risnapia.id/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+<div class="link-collection__content "><a data-gtm-footer-link-text="Order Status " style="--animation-order: " href="https://journal.pintarologimedia.com" class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class="link__content">
 Order Status
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Create " style="--animation-order: " href="https://risnapia.id/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="Create " style="--animation-order: " href="https://journal.pintarologimedia.com" class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class="link__content">
 Contact Us
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Coupon Codes " style="--animation-order: " href="https://risnapia.id/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="Coupon Codes " style="--animation-order: " href="https://journal.pintarologimedia.com" class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class="link__content">
 Coupon Codes
 </span>
 
 </a>
-<a data-gtm-footer-link-text="FAQ " style="--animation-order: " href="https://risnapia.id/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="FAQ " style="--animation-order: " href="https://journal.pintarologimedia.com" class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class="link__content">
 FAQ
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Free Shipping " style="--animation-order: " href="https://risnapia.id/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="Free Shipping " style="--animation-order: " href="https://journal.pintarologimedia.com" class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class="link__content">
 Free Shipping
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Refunds &amp; Returns " style="--animation-order: " href="https://risnapia.id/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="Refunds &amp; Returns " style="--animation-order: " href="https://journal.pintarologimedia.com" class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class="link__content">
 Refunds &amp; Returns
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Shipping Info " style="--animation-order: " href="https://risnapia.id/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="Shipping Info " style="--animation-order: " href="https://journal.pintarologimedia.com" class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class="link__content">
 Shipping Info
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Size Chart " style="--animation-order: " href="https://risnapia.id/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="Size Chart " style="--animation-order: " href="https://journal.pintarologimedia.com" class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class="link__content">
 Size Chart
 </span>
@@ -20305,43 +20305,43 @@ Size Chart
 
 </div></div></div><div class="link-collection m-foot__links-section "><div class="link-collection__body "><h4 class="h__h4 link-collection__header h--no-s ">About Us</h4>
 
-<div class="link-collection__content "><a data-gtm-footer-link-text="About Us " style="--animation-order: " href="https://risnapia.id/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+<div class="link-collection__content "><a data-gtm-footer-link-text="About Us " style="--animation-order: " href="https://journal.pintarologimedia.com" class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class="link__content">
 About Us
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Accessibility " style="--animation-order: " href="https://risnapia.id/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="Accessibility " style="--animation-order: " href="https://journal.pintarologimedia.com" class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class="link__content">
 Accessibility
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Create a Dashery Store " style="--animation-order: " href="https://risnapia.id/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="Create a Dashery Store " style="--animation-order: " href="https://journal.pintarologimedia.com" class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class="link__content">
 Create a Dashery Store
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Careers " style="--animation-order: " href="https://risnapia.id/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="Careers " style="--animation-order: " href="https://journal.pintarologimedia.com" class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class="link__content">
 Careers
 </span>    
 </a>
-<a data-gtm-footer-link-text="Hire an Artist " style="--animation-order: " href="https://risnapia.id/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="Hire an Artist " style="--animation-order: " href="https://journal.pintarologimedia.com" class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class="link__content">
 Hire an Artist
 </span>
 
 </a>
 
-<a data-gtm-footer-link-text="Social Responsibility " style="--animation-order: " href="https://risnapia.id/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="Social Responsibility " style="--animation-order: " href="https://journal.pintarologimedia.com" class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class="link__content">
 Social Responsibility
 </span>
 
 </a>
-<a data-gtm-footer-link-text="TeePublic Reviews " style="--animation-order: " href="https://risnapia.id/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="TeePublic Reviews " style="--animation-order: " href="https://journal.pintarologimedia.com" class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class="link__content">
 TeePublic Reviews
 </span>
@@ -20350,37 +20350,37 @@ TeePublic Reviews
 
 </div></div></div><div class="link-collection m-foot__links-section "><div class="link-collection__body "><h4 class="h__h4 link-collection__header h--no-s ">Explore</h4>
 
-<div class="link-collection__content "><a data-gtm-footer-link-text="All Designs " style="--animation-order: " href="https://risnapia.id/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+<div class="link-collection__content "><a data-gtm-footer-link-text="All Designs " style="--animation-order: " href="https://journal.pintarologimedia.com" class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class="link__content">
 All Designs
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Content Directory " style="--animation-order: " href="https://risnapia.id/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="Content Directory " style="--animation-order: " href="https://journal.pintarologimedia.com" class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class="link__content">
 Content Directory
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Featured Designers " style="--animation-order: " href="https://risnapia.id/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="Featured Designers " style="--animation-order: " href="https://journal.pintarologimedia.com" class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class="link__content">
 Featured Artists
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Newest Designers " style="--animation-order: " href="https://risnapia.id/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="Newest Designers " style="--animation-order: " href="https://journal.pintarologimedia.com" class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class="link__content">
 Newest Designers
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Newest T-Shirts " style="--animation-order: " href="https://risnapia.id/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="Newest T-Shirts " style="--animation-order: " href="https://journal.pintarologimedia.com" class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class="link__content">
 Newest T-Shirts
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Tag Directory " style="--animation-order: " href="https://risnapia.id/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="Tag Directory " style="--animation-order: " href="https://journal.pintarologimedia.com" class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class="link__content">
 Tag Directory
 </span>
@@ -20389,13 +20389,13 @@ Tag Directory
 
 </div></div></div><div class="link-collection m-foot__links-section "><div class="link-collection__body "><h4 class="h__h4 link-collection__header h--no-s ">Artists</h4>
 
-<div class="link-collection__content "><a data-gtm-footer-link-text="Create " style="--animation-order: " href="https://risnapia.id/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+<div class="link-collection__content "><a data-gtm-footer-link-text="Create " style="--animation-order: " href="https://journal.pintarologimedia.com" class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class="link__content">
 Artist Signup
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Design Guide " style="--animation-order: " href="https://risnapia.id/" class="link gtmFooterLink link-collection__link
+<a data-gtm-footer-link-text="Design Guide " style="--animation-order: " href="https://journal.pintarologimedia.com" class="link gtmFooterLink link-collection__link
                     link--1 link--default ">
 <span class="link__content">
 Design Guide
@@ -20404,7 +20404,7 @@ Design Guide
 </a>
 
 
-<a data-gtm-footer-link-text="TeePublic Blog " style="--animation-order: " href="https://risnapia.id/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+<a data-gtm-footer-link-text="TeePublic Blog " style="--animation-order: " href="https://journal.pintarologimedia.com" class="link gtmFooterLink link-collection__link link--1 link--default ">
 <span class="link__content">
 TeePublic Blog
 </span>
@@ -20529,31 +20529,31 @@ United States - $ USD
 </button></div>
 </div>
 <div class="m-footer__legal-bar-subnav">
-<a data-gtm-footer-link-text="Copyright Policy " rel="nofollow " target="_blank " href="https://risnapia.id/" class="link m-footer__legal-bar-subnav-link gtmFooterLink ">
+<a data-gtm-footer-link-text="Copyright Policy " rel="nofollow " target="_blank " href="https://journal.pintarologimedia.com" class="link m-footer__legal-bar-subnav-link gtmFooterLink ">
 <span class="link__content">
 Product Safety
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Copyright Policy " rel="nofollow " href="https://risnapia.id/" class="link m-footer__legal-bar-subnav-link gtmFooterLink ">
+<a data-gtm-footer-link-text="Copyright Policy " rel="nofollow " href="https://journal.pintarologimedia.com" class="link m-footer__legal-bar-subnav-link gtmFooterLink ">
 <span class="link__content">
 Intellectual Property Policy
 </span>
 
 </a>
-<a data-gtm-footer-link-text="CCPA " rel="nofollow " href="https://risnapia.id/" class="link m-footer__legal-bar-subnav-link gtmFooterLink ">
+<a data-gtm-footer-link-text="CCPA " rel="nofollow " href="https://journal.pintarologimedia.com" class="link m-footer__legal-bar-subnav-link gtmFooterLink ">
 <span class="link__content">
 CA: Do Not Sell My Personal Information
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Privacy Policy " rel="nofollow " href="https://risnapia.id/" class="link m-footer__legal-bar-subnav-link gtmFooterLink ">
+<a data-gtm-footer-link-text="Privacy Policy " rel="nofollow " href="https://journal.pintarologimedia.com" class="link m-footer__legal-bar-subnav-link gtmFooterLink ">
 <span class="link__content">
 Privacy Policy
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Terms " rel="nofollow " href="https://risnapia.id/" class="link m-footer__legal-bar-subnav-link gtmFooterLink ">
+<a data-gtm-footer-link-text="Terms " rel="nofollow " href="https://journal.pintarologimedia.com" class="link m-footer__legal-bar-subnav-link gtmFooterLink ">
 <span class="link__content">
 Terms
 </span>
@@ -20642,7 +20642,7 @@ Away from
 <h4>Your Cart is empty...</h4>
 <p>Discover something you'll love!</p>
 <div class="m-tray-cart__body-links">
-<a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="animals " data-href="https://risnapia.id/" href="https://risnapia.id/
+<a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="animals " data-href="https://journal.pintarologimedia.com" href="https://journal.pintarologimedia.com
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent "><svg xmlns="http://www.w3.org/2000/svg " viewBox="0 0 48 48
                     " width="16 " height="16 " focusable="false " aria-hidden="true "><path fill-rule="evenodd " d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0
                     3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z " clip-rule="evenodd "></path></svg></span>
@@ -20687,7 +20687,7 @@ food
 
 </span>
 
-</a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="funny " data-href="https://risnapia.id/" href="https://risnapia.id/
+</a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="funny " data-href="https://journal.pintarologimedia.com" href="https://journal.pintarologimedia.com
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent "><svg xmlns="http://www.w3.org/2000/svg " viewBox="0 0 48 48
                     " width="16 " height="16 " focusable="false " aria-hidden="true "><path fill-rule="evenodd " d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0
                     3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z " clip-rule="evenodd "></path></svg></span>
@@ -20696,7 +20696,7 @@ funny
 
 </span>
 
-</a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="movies " data-href="https://risnapia.id/" href="https://risnapia.id/
+</a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="movies " data-href="https://journal.pintarologimedia.com" href="https://journal.pintarologimedia.com
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent "><svg xmlns="http://www.w3.org/2000/svg " viewBox="0 0 48 48
                     " width="16 " height="16 " focusable="false " aria-hidden="true "><path fill-rule="evenodd " d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0
                     3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z " clip-rule="evenodd "></path></svg></span>
@@ -20714,7 +20714,7 @@ sci-fi
 
 </span>
 
-</a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="sports " data-href="https://risnapia.id/" href="https://risnapia.id/
+</a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="sports " data-href="https://journal.pintarologimedia.com" href="https://journal.pintarologimedia.com
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent "><svg xmlns="http://www.w3.org/2000/svg " viewBox="0 0 48 48
                     " width="16 " height="16 " focusable="false " aria-hidden="true "><path fill-rule="evenodd " d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0
                     3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z " clip-rule="evenodd "></path></svg></span>
@@ -20723,7 +20723,7 @@ sports
 
 </span>
 
-</a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="television " data-href="https://risnapia.id/" href="https://risnapia.id/
+</a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="television " data-href="https://journal.pintarologimedia.com" href="https://journal.pintarologimedia.com
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent "><svg xmlns="http://www.w3.org/2000/svg " viewBox="0 0 48 48
                     " width="16 " height="16 " focusable="false " aria-hidden="true "><path fill-rule="evenodd " d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0
                     3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z " clip-rule="evenodd "></path></svg></span>
@@ -20732,7 +20732,7 @@ television
 
 </span>
 
-</a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="vintage " data-href="https://risnapia.id/" href="https://risnapia.id/
+</a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="vintage " data-href="https://journal.pintarologimedia.com" href="https://journal.pintarologimedia.com
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent "><svg xmlns="http://www.w3.org/2000/svg " viewBox="0 0 48 48
                     " width="16 " height="16 " focusable="false " aria-hidden="true "><path fill-rule="evenodd " d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0
                     3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z " clip-rule="evenodd "></path></svg></span>
